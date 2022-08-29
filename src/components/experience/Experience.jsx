@@ -30,6 +30,13 @@ export const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
+                <h4>Unit Testing</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icons" />
+              <div>
                 <h4>JavaScript</h4>
                 <small className="text-light">Experienced</small>
               </div>
@@ -80,6 +87,20 @@ export const Experience = () => {
               <BsPatchCheckFill className="experience__details-icons" />
               <div>
                 <h4>MongoDB</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icons" />
+              <div>
+                <h4>Postman</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience__details">
+              <BsPatchCheckFill className="experience__details-icons" />
+              <div>
+                <h4>Unit Testing</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>

@@ -1,54 +1,54 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio1.jpg";
-import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
-import IMG4 from "../../assets/portfolio4.jpg";
+import IMG1 from "../../assets/portfolio1.png";
+import IMG2 from "../../assets/portfolio2.png";
+import IMG3 from "../../assets/portfolio3.png";
+import IMG4 from "../../assets/portfolio4.png";
 import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG6 from "../../assets/portfolio6.png";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Crypto Currenct Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribble.com",
+    title: "Live Weather Web Application",
+    github: "https://github.com/Bholaji/node-weather-website",
+    demo: "https://bholaji-weather-application.herokuapp.com/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Charts templates & infographics in figma",
-    github: "https://github.com",
-    demo: "https://dribble.com",
+    title: "StoryBook Application",
+    github: "https://github.com/Bholaji/StoryBook",
+    demo: "https://bholaji-storybook-apllication.herokuapp.com/",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Figma dashboard UI kit for data design web apps",
-    github: "https://github.com",
-    demo: "https://dribble.com",
+    title: "Simple Monster-Rolodex Web Application",
+    github: "https://github.com/Bholaji/Monster-Rolodex",
+    demo: "",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Maintaing tasks and tracking progress",
-    github: "https://github.com",
-    demo: "https://dribble.com",
+    title: "E-Commerce Web Application",
+    github: "https://github.com/Bholaji/Shopping-App",
+    demo: "https://bholaji-e-commerce.netlify.app/",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Charts templates & infographic in Figma",
-    github: "https://github.com",
-    demo: "https://dribble.com",
+    title: "User Management System",
+    github: "https://github.com/Bholaji/User-Management-System",
+    demo: "https://bholaji-user-management-system.herokuapp.com/",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Crypto Currenct Dashboard & Financial Visualization",
-    github: "https://github.com",
-    demo: "https://dribble.com",
+    title: "Portfolio",
+    github: "https://github.com/Bholaji/Portfiolo",
+    demo: "https://bholaji-portfiolo.netlify.app/",
   },
 ];
 

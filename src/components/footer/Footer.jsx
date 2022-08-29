@@ -37,19 +37,19 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com">
+        <a href="https://www.facebook.com/bolaji.johnson.9406">
           <FaFacebookF />
         </a>
-        <a href="https://instagram.com">
+        <a href="https://www.instagram.com/bhola.jee_/">
           <FiInstagram />
         </a>
-        <a href="https://twitter.com">
+        <a href="https://twitter.com/Beejae19">
           <IoLogoTwitter />
         </a>
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; BHOLAJI. Copy if you want to copy. </small>
+        <small>&copy; BHOLAJI. Copy if you want to copy.. </small>
         <BsEmojiSunglasses className="footer__emoji" />
       </div>
     </footer>

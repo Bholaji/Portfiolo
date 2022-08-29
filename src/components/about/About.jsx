@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-about.jpg";
+import ME from "../../assets/me-about.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
@@ -23,27 +23,26 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>Few Clients</small>
             </article>
 
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>Few Projects</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Necessitatibus velit sed sint explicabo iusto blanditiis assumenda
-            placeat ab alias dolorum dolores earum, vitae voluptatem quis
-            expedita architecto quam saepe quibusdam.
+            Bolaji Johnson is a productive and highly motivated fullstack developer who has vast knowledge on the application of Node JS and React JS and also has solid experience in Data Science and Machine Learning using Python language.
+            Eager to contribute to team success through smart work, dedication and adept problem solving.
+            He also performs excellently working in a self directed setting.
           </p>
 
           <a href="#contact" className="btn btn-primary">
